@@ -1,5 +1,3 @@
-extensions [ t2s ]
-
 breed [ people person ]
 breed [ sensors sensor ]
 breed [ walls wall ]
