@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=NetLogo
+GenericName=Agent-Based Modeling Software
+GenericName[es]=Modelaciόn con Agentes
+Comment=Build simulations of emergent phenomena.
+Comment[es]=Construir simulaciones de fenόmenos complejos.
+Exec=/home/ubuntu/netlogo-6.0.0-M2/netlogo.sh
+Icon=/home/ubuntu/netlogo-6.0.0-M2/netlogoicon.jpg
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Education;Science;Development;
+

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=pcDuino Monitor
+GenericName=Agent-Based Modeling Software
+GenericName[es]=Modelaciόn con Agentes
+Comment=Monitor status and readings on pcDuino ports.
+Comment[es]=Monitorear el estado de la pcDuino.
+Exec=/home/ubuntu/netlogo-6.0.0-M2/netlogo.sh /home/ubuntu/netlogo-6.0.0-M2/pcDuino-Monitor.nlogo
+Icon=/home/ubuntu/netlogo-6.0.0-M2/netlogoicon.jpg
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Education;Science;Development;
+
